@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing test Random Test(failed)]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Framework_039.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing Framework_039.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Framework_039.main]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing Framework_039.main]]>
+    </line>
+    <line>
+      <![CDATA[TestName = null]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in testCases.Framework_039]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Framework_039.afterMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing Framework_039.afterMethod]]>
+    </line>
+  </reporter-output>
+  <suite name="Failed suite [Suite]" duration-ms="35850" started-at="2016-06-06T06:02:09Z" finished-at="2016-06-06T06:02:45Z">
+    <groups>
+    </groups>
+    <test name="Random Test(failed)" duration-ms="35850" started-at="2016-06-06T06:02:09Z" finished-at="2016-06-06T06:02:45Z">
+      <class name="testCases.Framework_039">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.Framework_039@445b84c0]" name="beforeMethod" is-config="true" duration-ms="10721" started-at="2016-06-06T11:32:09Z" finished-at="2016-06-06T11:32:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing Framework_039.beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:testCases.Framework_039@445b84c0]" name="main" duration-ms="25091" started-at="2016-06-06T11:32:20Z" finished-at="2016-06-06T11:32:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing Framework_039.main]]>
+            </line>
+            <line>
+              <![CDATA[TestName = null]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in testCases.Framework_039]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing Framework_039.afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.Framework_039@445b84c0]" name="afterMethod" is-config="true" duration-ms="10" started-at="2016-06-06T11:32:45Z" finished-at="2016-06-06T11:32:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing Framework_039.afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.Framework_039 -->
+    </test> <!-- Random Test(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>

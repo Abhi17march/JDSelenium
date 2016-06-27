@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+       <listeners>
+              <listener class-name="utility.Listener"></listener>
+       </listeners>  
+  	<test name="Random Test">
+		<classes>
+       		    <class name="testCases.Framework_001" /> 
+       			<class name="testCases.Framework_002" /> 
+       			<class name="testCases.Framework_003" /> 
+       			<class name="testCases.Framework_004" /> 
+       			<class name="testCases.Framework_005" /> 
+       			<class name="testCases.Framework_006" /> 
+       			<class name="testCases.Framework_007" /> 
+       			<class name="testCases.Framework_008" /> 
+       			<class name="testCases.Framework_009" />
+       			<class name="testCases.Framework_010" />
+       			<class name="testCases.Framework_011" /> 
+       			<class name="testCases.Framework_012" /> 
+       			<class name="testCases.Framework_013" /> 
+       			<class name="testCases.Framework_014" /> 
+       			<class name="testCases.Framework_015" /> 
+       			<class name="testCases.Framework_016" /> 
+       			<class name="testCases.Framework_017" /> 
+       			<class name="testCases.Framework_018" /> 
+       			<class name="testCases.Framework_019" /> 
+       			<class name="testCases.Framework_020" /> 
+       			<class name="testCases.Framework_021" /> 
+       			<class name="testCases.Framework_022" /> 
+       			<class name="testCases.Framework_023" /> 
+       			<class name="testCases.Framework_024" /> 
+       			<class name="testCases.Framework_025" /> 
+       			<class name="testCases.Framework_026" /> 
+       			<class name="testCases.Framework_027" /> 
+       			<class name="testCases.Framework_028" /> 
+       			<class name="testCases.Framework_029" /> 
+       			<class name="testCases.Framework_030" /> 
+       			<class name="testCases.Framework_031" /> 
+       			<class name="testCases.Framework_032" /> 
+       			<class name="testCases.Framework_033" /> 
+       			<class name="testCases.Framework_034" /> 
+       			<class name="testCases.Framework_035" /> 
+       			<class name="testCases.Framework_036" /> 
+       			<class name="testCases.Framework_037" /> 
+       			<class name="testCases.Framework_038" /> 
+       			<class name="testCases.Framework_039" /> 
+       			<class name="testCases.Framework_040" /> 
+       			<class name="testCases.Framework_041" /> 
+       			<class name="testCases.Framework_042" /> 
+       			<class name="testCases.Framework_043" /> 
+       			<class name="testCases.Framework_044" /> 
+       			<class name="testCases.Framework_045" /> 
+       			<class name="testCases.Framework_046" /> 
+       			<class name="testCases.Framework_047" /> 
+       			<class name="testCases.Framework_048" /> 
+       			<class name="testCases.Framework_049" /> 
+       			<class name="testCases.Framework_050" /> 
+       			
+       			
+       						
+    		  </classes>
+  	</test> <!-- Test -->
+</suite> <!-- Suite -->

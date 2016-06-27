@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+       <listeners>
+              <listener class-name="utility.Listener"></listener>
+       </listeners>  
+  	<test name="Random Test">
+		<classes>
+       		    <class name="testCases.Framework_001" />
+       			<class name="testCases.Framework_002" /> 
+       			<class name="testCases.Framework_003" /> 
+       			<class name="testCases.Framework_004" /> 
+       			<class name="testCases.Framework_005" />
+       			<class name="testCases.Framework_006" />
+       			<class name="testCases.Framework_007" /> 
+       			<class name="testCases.Framework_008" /> 
+       			<class name="testCases.Framework_009" />
+       			<class name="testCases.Framework_010" />
+       			<class name="testCases.Framework_011" /> 
+       			<class name="testCases.Framework_012" /> 
+       			<class name="testCases.Framework_013" /> 
+       			<class name="testCases.Framework_014" /> 
+       			<class name="testCases.Framework_015" /> 
+       			<class name="testCases.Framework_016" /> 
+       			<class name="testCases.Framework_017" /> 
+       			<class name="testCases.Framework_018" /> 
+       			<class name="testCases.Framework_019" /> 
+       			<class name="testCases.Framework_020" /> 
+       			<class name="testCases.Framework_021" /> 
+       			<class name="testCases.Framework_022" /> 
+       			<class name="testCases.Framework_023" /> 
+       			<class name="testCases.Framework_024" /> 
+       			<class name="testCases.Framework_025" /> 
+       			
+       			</classes>
+  	</test> <!-- Test -->
+</suite> <!-- Suite -->

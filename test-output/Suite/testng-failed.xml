@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="utility.Listener"/>
+  </listeners>
+  <test name="Random Test(failed)">
+    <classes>
+      <class name="testCases.Framework_032">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_032 -->
+      <class name="testCases.Framework_041">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_041 -->
+      <class name="testCases.Framework_035">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_035 -->
+      <class name="testCases.Framework_043">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_043 -->
+      <class name="testCases.Framework_038">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_038 -->
+      <class name="testCases.Framework_029">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_029 -->
+      <class name="testCases.Framework_033">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_033 -->
+      <class name="testCases.Framework_036">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_036 -->
+      <class name="testCases.Framework_031">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_031 -->
+      <class name="testCases.Framework_037">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_037 -->
+      <class name="testCases.Framework_026">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_026 -->
+      <class name="testCases.Framework_027">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_027 -->
+      <class name="testCases.Framework_045">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_045 -->
+      <class name="testCases.Framework_040">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_040 -->
+      <class name="testCases.Framework_030">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_030 -->
+      <class name="testCases.Framework_028">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_028 -->
+      <class name="testCases.Framework_034">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_034 -->
+      <class name="testCases.Framework_039">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- testCases.Framework_039 -->
+      <class name="testCases.Framework_048">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_048 -->
+      <class name="testCases.Framework_049">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_049 -->
+      <class name="testCases.Framework_042">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_042 -->
+      <class name="testCases.Framework_046">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_046 -->
+      <class name="testCases.Framework_047">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_047 -->
+      <class name="testCases.Framework_044">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_044 -->
+    </classes>
+  </test> <!-- Random Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
